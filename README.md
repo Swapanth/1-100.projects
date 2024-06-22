@@ -1,3 +1,3 @@
 # Challenge tracker
 
-using Nestjs,TypeScript,Supabase
+using reactjs,python,Supabase
